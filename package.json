@@ -1,0 +1,12 @@
+{
+  "name": "gonnect-user-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "main": "client.js",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "randomstring": "^1.1.5",
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {}
+}
