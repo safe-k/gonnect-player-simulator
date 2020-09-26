@@ -1,11 +1,11 @@
 # Gonnect Player Simulator
 
-A script I used to simulate multiple player connections to the [Gonnect](https://github.com/safe-k/gonnect) player server.
+A script I used to simulate multiple player connections to the [Gonnect](https://github.com/seifkamal/gonnect) player server.
 
 ## Installation
 
 ```shell script
-git clone git@github.com:safe-k/gonnect-player-simulator.git
+git clone git@github.com:seifkamal/gonnect-player-simulator.git
 cd gonnect-player-simulator
 npm i
 ```
